@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.inicioTabela{
+    width: 600px;
+    color: white;
+    background-color: #1F4B4C;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.tabelaPrincipal{
+    width: 600px;
+    color: white;
+    background-color: #36353A;
+    border-bottom: white;
+}
+
+.posicaoNaTabela1a4{
+    color: white;
+    background-color: blue;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.posicaoNaTabela5e6{
+    color: white;
+    background-color: orange;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.posicaoNaTabela7a12{
+    color: white;
+    background-color: #29C138;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.posicaoNaTabela{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.posicaoNaTabela17a20{
+    color: white;
+    background-color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p{
+    width: 600px;
+    color: white;
+    background-color: #1F4B4C;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+h5{
+    width: 600px;
+    color: white;
+    background-color: #1F4B4C;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
